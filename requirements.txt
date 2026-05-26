@@ -1,0 +1,5 @@
+streamlit
+pandas
+plotly
+python-dateutil
+Se ruleaza in terminal cu comanda: streamlit run app.py
