@@ -15,6 +15,8 @@ Pentru a rula acest proiect local, urmează acești pași:
    ```bash
    pip install -r requirements.txt
 3.După ce librăriile s-au instalat, rulează comanda de mai jos în același terminal:
-   streamlit run app.py
+   ```bash
+   streamlit run app.py 
+   ```
 (Notă: Asigură-te că fișierul principal se numește app.py. Dacă l-ai numit altfel, înlocuiește numele în comandă).
 Aplicația se va deschide automat într-un tab nou în browserul tău web!
