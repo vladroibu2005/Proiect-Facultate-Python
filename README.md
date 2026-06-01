@@ -20,3 +20,17 @@ Pentru a rula acest proiect local, urmează acești pași:
    ```
 (Notă: Asigură-te că fișierul principal se numește app.py. Dacă l-ai numit altfel, înlocuiește numele în comandă).
 Aplicația se va deschide automat într-un tab nou în browserul tău web!
+
+## 🎨 Configurare Interfață (Tema)
+
+Această aplicație este proiectată cu o interfață personalizată (Light Mode) pentru a asigura o lizibilitate optimă a graficelor Plotly și a contrastului textului. 
+
+Pentru a preveni suprascrierea culorilor de către setările locale ale browserului sau ale sistemului de operare (ex. Dark Mode forțat), aplicația folosește un fișier de configurare dedicat.
+
+**Fișierul `.streamlit/config.toml` conține:**
+```toml
+[theme]
+base="light"
+
+
+
