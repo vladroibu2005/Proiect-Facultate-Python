@@ -31,6 +31,17 @@ Pentru a preveni suprascrierea culorilor de către setările locale ale browseru
 ```toml
 [theme]
 base="light"
+```
+
+Previzualizare:
+
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/2e776da0-37d9-410a-9dc5-10c0e7024f1f" />
+
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/b61eae11-c511-4f4b-8fa9-f4c5aa0ed1e4" />
+
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/e4fbb43c-f063-4fff-b045-0ba1af6adad2" />
+
+
 
 
 
